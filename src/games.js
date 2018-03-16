@@ -1,4 +1,4 @@
-export default  [
+export default [
   {
     _key: "8342088051",
     anonymousFunMode: false,
